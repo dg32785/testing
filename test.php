@@ -10,7 +10,7 @@ $tmpArray = array(
     ))
 );
 
-echo "<pre>";print_r($tmpArray);
+//echo "<pre>";print_r($tmpArray);
 
 
 //  Output array
